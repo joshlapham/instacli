@@ -1,0 +1,7 @@
+x Basic working URL add
+
+## End status message based on status return code
+Go back to URL add if status fails [try again, abort]
+
+## Option to add Title and Description (blank is optional)
+Check if strings are empty, omit from URL API data
