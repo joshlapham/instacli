@@ -1,4 +1,5 @@
-x Basic working URL add
+[DONE] Basic working URL add.
+[DONE] Take URL as an argument.
 
 ## End status message based on status return code
 Go back to URL add if status fails [try again, abort]
