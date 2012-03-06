@@ -7,6 +7,8 @@
 #
 # By Josh Lapham [josh@joshlapham.com]
 #
+# License: Beerware
+#
 ###
 
 import sys

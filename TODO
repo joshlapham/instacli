@@ -1,8 +1,7 @@
+* Custom message when API returns status.
+* If status fails then prompt - [try again, abort].
+* Option to add Title and Description (blank is optional).
+* Check if strings are empty, omit from URL API data.
+
 [DONE] Basic working URL add.
 [DONE] Take URL as an argument.
-
-## End status message based on status return code
-Go back to URL add if status fails [try again, abort]
-
-## Option to add Title and Description (blank is optional)
-Check if strings are empty, omit from URL API data
