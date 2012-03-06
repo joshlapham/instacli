@@ -10,4 +10,4 @@ License: Beerware
 
 Be sure to add your Instapaper API key to the script.
 
-`python instacli.py http://thoughtmaybe.com` or `thoughtmaybe.com` will add the URL to Instapaper and return a message.
+e.g. `python instacli.py http://thoughtmaybe.com` or `thoughtmaybe.com` will add the URL to Instapaper and return a message.
